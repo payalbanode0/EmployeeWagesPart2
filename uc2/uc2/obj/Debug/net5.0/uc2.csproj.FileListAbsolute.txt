@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\bin\Debug\net5.0\uc2.exe
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\bin\Debug\net5.0\uc2.deps.json
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\bin\Debug\net5.0\uc2.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\bin\Debug\net5.0\uc2.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\bin\Debug\net5.0\uc2.dll
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\bin\Debug\net5.0\uc2.pdb
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\obj\Debug\net5.0\uc2.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\obj\Debug\net5.0\uc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\obj\Debug\net5.0\uc2.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\obj\Debug\net5.0\uc2.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\obj\Debug\net5.0\uc2.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\obj\Debug\net5.0\uc2.dll
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\obj\Debug\net5.0\refint\uc2.dll
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\obj\Debug\net5.0\uc2.pdb
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\obj\Debug\net5.0\uc2.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\empclass\uc2\uc2\obj\Debug\net5.0\ref\uc2.dll
